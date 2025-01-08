@@ -1,13 +1,13 @@
 # Default Code Ownership
-*                    @rancher/rancher-security
+*                    @chiukapoor
 
 # Code Ownership for merging renovate PRs
-/go.mod              @rancher/infracloud-team @rancher/rancher-security
-/go.sum              @rancher/infracloud-team @rancher/rancher-security
-/hack/               @rancher/infracloud-team @rancher/rancher-security
-/package/Dockerfile  @rancher/infracloud-team @rancher/rancher-security
-/tests/              @rancher/infracloud-team @rancher/rancher-security
+/go.mod              @mitulshah-suse @chiukapoor
+/go.sum              @mitulshah-suse @chiukapoor
+/hack/               @mitulshah-suse @chiukapoor
+/package/Dockerfile  @mitulshah-suse @chiukapoor
+/tests/              @mitulshah-suse @chiukapoor
 
 # rancher-cis-benchmark chart Ownership
-/chart/              @rancher/infracloud-team @rancher/rancher-security
-/crds/               @rancher/infracloud-team @rancher/rancher-security
+/chart/              @mitulshah-suse @chiukapoor
+/crds/               @mitulshah-suse @chiukapoor
