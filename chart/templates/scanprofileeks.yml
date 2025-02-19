@@ -6,4 +6,4 @@ metadata:
   annotations:
     clusterscanprofile.cis.cattle.io/builtin: "true"
 spec:
-  benchmarkVersion: eks-1.2.0
+  benchmarkVersion: eks-1.5.0
