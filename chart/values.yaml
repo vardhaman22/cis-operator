@@ -39,6 +39,8 @@ securityScanJob:
 
 affinity: {}
 
+customScanHostPaths: []
+
 global:
   cattle:
     systemDefaultRegistry: ""
